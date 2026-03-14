@@ -217,12 +217,12 @@ fs.mkdirSync("catalog/series", { recursive: true });
 
 fs.writeFileSync(
   "catalog/movie/ph_trending_movies.json",
-  JSON.stringify({ metas: movieMetas }, null, 2)
+  JSON.stringify({ metas: movieMetas, cacheMaxAge: 3600}, null, 2)
 );
 
 fs.writeFileSync(
   "catalog/series/ph_trending_tv.json",
-  JSON.stringify({ metas: tvMetas }, null, 2)
+  JSON.stringify({ metas: tvMetas, cacheMaxAge: 3600}, null, 2)
 );
 
   console.log("Catalog files generated successfully.");
