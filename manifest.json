@@ -1,0 +1,20 @@
+{
+  "id": "ph.trending",
+  "version": "1.0.0",
+  "name": "PH Trending",
+  "description": "Top 20 weighted streaming movies & TV in Philippines",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "ph_trending_movies",
+      "name": "PH Trending Movies"
+    },
+    {
+      "type": "series",
+      "id": "ph_trending_tv",
+      "name": "PH Trending TV"
+    }
+  ]
+}

@@ -212,18 +212,18 @@ async function searchTMDB(title, type, year) {
     }
   }
 
-  fs.mkdirSync("movies", { recursive: true });
-  fs.mkdirSync("tv", { recursive: true });
+ fs.mkdirSync("catalog/movie", { recursive: true });
+fs.mkdirSync("catalog/series", { recursive: true });
 
-  fs.writeFileSync(
-    "movies/catalog.json",
-    JSON.stringify({ metas: movieMetas }, null, 2)
-  );
+fs.writeFileSync(
+  "catalog/movie/ph_trending_movies.json",
+  JSON.stringify({ metas: movieMetas }, null, 2)
+);
 
-  fs.writeFileSync(
-    "tv/catalog.json",
-    JSON.stringify({ metas: tvMetas }, null, 2)
-  );
+fs.writeFileSync(
+  "catalog/series/ph_trending_tv.json",
+  JSON.stringify({ metas: tvMetas }, null, 2)
+);
 
   console.log("Catalog files generated successfully.");
 
