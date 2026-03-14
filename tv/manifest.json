@@ -1,0 +1,15 @@
+{
+  "id": "ph.trending.tv",
+  "version": "1.0.0",
+  "name": "PH Trending TV Shows",
+  "description": "Top 20 weighted streaming TV shows in Philippines",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "ph_trending_tv",
+      "name": "PH Trending TV"
+    }
+  ]
+}
