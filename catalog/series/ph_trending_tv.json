@@ -41,9 +41,9 @@
       "name": "Pursuit of Jade"
     },
     {
-      "id": "tmdb:287344",
+      "id": "tmdb:250307",
       "type": "series",
-      "name": "The Practical Guide to Love"
+      "name": "The Pitt"
     },
     {
       "id": "tmdb:310800",
@@ -56,9 +56,9 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:250307",
+      "id": "tmdb:224372",
       "type": "series",
-      "name": "The Pitt"
+      "name": "A Knight of the Seven Kingdoms"
     },
     {
       "id": "tmdb:273977",
@@ -76,14 +76,14 @@
       "name": "Shrinking"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:287344",
       "type": "series",
-      "name": "The Village Barber"
+      "name": "The Practical Guide to Love"
     },
     {
-      "id": "tmdb:198102",
+      "id": "tmdb:201289",
       "type": "series",
-      "name": "Hijack"
+      "name": "The Last Thing He Told Me"
     },
     {
       "id": "tmdb:280948",
@@ -96,9 +96,10 @@
       "name": "Bridgerton"
     },
     {
-      "id": "tmdb:224372",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "A Knight of the Seven Kingdoms"
+      "name": "Rooster"
     }
-  ]
+  ],
+  "cacheMaxAge": 3600
 }
