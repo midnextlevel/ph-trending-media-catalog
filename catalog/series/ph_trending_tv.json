@@ -61,9 +61,9 @@
       "name": "The Practical Guide to Love"
     },
     {
-      "id": "tmdb:209867",
+      "id": "tmdb:279388",
       "type": "series",
-      "name": "Frieren: Beyond Journey's End"
+      "name": "Pursuit of Jade"
     },
     {
       "id": "tmdb:241372",
@@ -86,19 +86,19 @@
       "name": "Hijack"
     },
     {
-      "id": "tmdb:280948",
+      "id": "tmdb:294188",
       "type": "series",
-      "name": "Spring Fever"
+      "name": "The Alibi"
     },
     {
-      "id": "tmdb:279388",
+      "id": "tmdb:117465",
       "type": "series",
-      "name": "Pursuit of Jade"
+      "name": "Hell's Paradise"
     },
     {
-      "id": "tmdb:224372",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "A Knight of the Seven Kingdoms"
+      "name": "Rooster"
     }
   ],
   "cacheMaxAge": 3600
