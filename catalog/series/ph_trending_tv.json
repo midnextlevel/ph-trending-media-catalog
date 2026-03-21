@@ -41,29 +41,9 @@
       "name": "Girl from Nowhere: The Reset"
     },
     {
-      "id": "tmdb:254953",
-      "type": "series",
-      "name": "Rooster"
-    },
-    {
-      "id": "tmdb:240740",
-      "type": "series",
-      "name": "Scarpetta"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters"
-    },
-    {
       "id": "tmdb:297424",
       "type": "series",
       "name": "Our Universe"
-    },
-    {
-      "id": "tmdb:281016",
-      "type": "series",
-      "name": "Boyfriend on Demand"
     },
     {
       "id": "tmdb:255661",
@@ -71,14 +51,34 @@
       "name": "Young Sherlock"
     },
     {
+      "id": "tmdb:202411",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters"
+    },
+    {
+      "id": "tmdb:287344",
+      "type": "series",
+      "name": "The Practical Guide to Love"
+    },
+    {
+      "id": "tmdb:281016",
+      "type": "series",
+      "name": "Boyfriend on Demand"
+    },
+    {
+      "id": "tmdb:240740",
+      "type": "series",
+      "name": "Scarpetta"
+    },
+    {
       "id": "tmdb:136311",
       "type": "series",
       "name": "Shrinking"
     },
     {
-      "id": "tmdb:206828",
+      "id": "tmdb:312826",
       "type": "series",
-      "name": "DTF St. Louis"
+      "name": "The Village Barber"
     },
     {
       "id": "tmdb:108181",
@@ -91,14 +91,14 @@
       "name": "The Alibi"
     },
     {
-      "id": "tmdb:279388",
+      "id": "tmdb:95479",
       "type": "series",
-      "name": "Pursuit of Jade"
+      "name": "Jujutsu Kaisen"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "The Village Barber"
+      "name": "Rooster"
     }
   ],
   "cacheMaxAge": 3600
