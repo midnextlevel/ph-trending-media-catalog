@@ -1,29 +1,14 @@
 {
   "metas": [
     {
-      "id": "tmdb:111110",
-      "type": "series",
-      "name": "ONE PIECE"
-    },
-    {
       "id": "tmdb:1375",
       "type": "series",
       "name": "Past Is Past"
     },
     {
-      "id": "tmdb:310800",
+      "id": "tmdb:111110",
       "type": "series",
-      "name": "Siren's Kiss"
-    },
-    {
-      "id": "tmdb:281010",
-      "type": "series",
-      "name": "Phantom Lawyer"
-    },
-    {
-      "id": "tmdb:287344",
-      "type": "series",
-      "name": "The Practical Guide to Love"
+      "name": "ONE PIECE"
     },
     {
       "id": "tmdb:95557",
@@ -31,14 +16,29 @@
       "name": "INVINCIBLE"
     },
     {
+      "id": "tmdb:281010",
+      "type": "series",
+      "name": "Phantom Lawyer"
+    },
+    {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": "The Pitt"
+    },
+    {
+      "id": "tmdb:310800",
+      "type": "series",
+      "name": "Siren's Kiss"
+    },
+    {
       "id": "tmdb:310935",
       "type": "series",
       "name": "Girl from Nowhere: The Reset"
     },
     {
-      "id": "tmdb:206828",
+      "id": "tmdb:297424",
       "type": "series",
-      "name": "DTF St. Louis"
+      "name": "Our Universe"
     },
     {
       "id": "tmdb:294188",
@@ -51,9 +51,9 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:281965",
+      "id": "tmdb:287344",
       "type": "series",
-      "name": "Mad Concrete Dreams"
+      "name": "The Practical Guide to Love"
     },
     {
       "id": "tmdb:281016",
@@ -91,9 +91,9 @@
       "name": "Pursuit of Jade"
     },
     {
-      "id": "tmdb:297424",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "Our Universe"
+      "name": "Rooster"
     }
   ],
   "cacheMaxAge": 3600
