@@ -1,14 +1,14 @@
 {
   "metas": [
     {
-      "id": "tmdb:1375",
-      "type": "series",
-      "name": "Past Is Past"
-    },
-    {
       "id": "tmdb:281010",
       "type": "series",
       "name": "Phantom Lawyer"
+    },
+    {
+      "id": "tmdb:1375",
+      "type": "series",
+      "name": "Past Is Past"
     },
     {
       "id": "tmdb:111110",
@@ -16,9 +16,14 @@
       "name": "ONE PIECE"
     },
     {
-      "id": "tmdb:314531",
+      "id": "tmdb:243881",
       "type": "series",
-      "name": "The Silent Noise"
+      "name": "House of David"
+    },
+    {
+      "id": "tmdb:310935",
+      "type": "series",
+      "name": "Girl from Nowhere: The Reset"
     },
     {
       "id": "tmdb:250307",
@@ -26,39 +31,14 @@
       "name": "The Pitt"
     },
     {
-      "id": "tmdb:243881",
+      "id": "tmdb:314531",
       "type": "series",
-      "name": "House of David"
+      "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:95479",
+      "id": "tmdb:287344",
       "type": "series",
-      "name": "Jujutsu Kaisen"
-    },
-    {
-      "id": "tmdb:312826",
-      "type": "series",
-      "name": "The Village Barber"
-    },
-    {
-      "id": "tmdb:310800",
-      "type": "series",
-      "name": "Siren's Kiss"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters"
-    },
-    {
-      "id": "tmdb:254953",
-      "type": "series",
-      "name": "Rooster"
-    },
-    {
-      "id": "tmdb:259265",
-      "type": "series",
-      "name": "Something Very Bad Is Going to Happen"
+      "name": "The Practical Guide to Love"
     },
     {
       "id": "tmdb:294188",
@@ -66,14 +46,34 @@
       "name": "The Alibi"
     },
     {
+      "id": "tmdb:202411",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters"
+    },
+    {
+      "id": "tmdb:312826",
+      "type": "series",
+      "name": "The Village Barber"
+    },
+    {
+      "id": "tmdb:259265",
+      "type": "series",
+      "name": "Something Very Bad Is Going to Happen"
+    },
+    {
+      "id": "tmdb:310800",
+      "type": "series",
+      "name": "Siren's Kiss"
+    },
+    {
       "id": "tmdb:87917",
       "type": "series",
       "name": "For All Mankind"
     },
     {
-      "id": "tmdb:206828",
+      "id": "tmdb:297424",
       "type": "series",
-      "name": "DTF St. Louis"
+      "name": "Our Universe"
     },
     {
       "id": "tmdb:136311",
@@ -86,14 +86,14 @@
       "name": "INVINCIBLE"
     },
     {
-      "id": "tmdb:209867",
+      "id": "tmdb:95479",
       "type": "series",
-      "name": "Frieren: Beyond Journey's End"
+      "name": "Jujutsu Kaisen"
     },
     {
-      "id": "tmdb:287344",
+      "id": "tmdb:281965",
       "type": "series",
-      "name": "The Practical Guide to Love"
+      "name": "Mad Concrete Dreams"
     }
   ],
   "cacheMaxAge": 3600
