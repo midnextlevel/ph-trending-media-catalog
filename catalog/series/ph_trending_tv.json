@@ -36,6 +36,11 @@
       "name": "The Silent Noise"
     },
     {
+      "id": "tmdb:259265",
+      "type": "series",
+      "name": "Something Very Bad Is Going to Happen"
+    },
+    {
       "id": "tmdb:287344",
       "type": "series",
       "name": "The Practical Guide to Love"
@@ -51,14 +56,9 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "The Village Barber"
-    },
-    {
-      "id": "tmdb:259265",
-      "type": "series",
-      "name": "Something Very Bad Is Going to Happen"
+      "name": "Rooster"
     },
     {
       "id": "tmdb:310800",
@@ -71,9 +71,9 @@
       "name": "For All Mankind"
     },
     {
-      "id": "tmdb:297424",
+      "id": "tmdb:312826",
       "type": "series",
-      "name": "Our Universe"
+      "name": "The Village Barber"
     },
     {
       "id": "tmdb:136311",
@@ -91,9 +91,9 @@
       "name": "Jujutsu Kaisen"
     },
     {
-      "id": "tmdb:281965",
+      "id": "tmdb:206828",
       "type": "series",
-      "name": "Mad Concrete Dreams"
+      "name": "DTF St. Louis"
     }
   ],
   "cacheMaxAge": 3600
