@@ -31,14 +31,29 @@
       "name": "The Pitt"
     },
     {
-      "id": "tmdb:243881",
+      "id": "tmdb:95557",
       "type": "series",
-      "name": "House of David"
+      "name": "INVINCIBLE"
     },
     {
       "id": "tmdb:259265",
       "type": "series",
       "name": "Something Very Bad Is Going to Happen"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
+    },
+    {
+      "id": "tmdb:243881",
+      "type": "series",
+      "name": "House of David"
+    },
+    {
+      "id": "tmdb:202411",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters"
     },
     {
       "id": "tmdb:287344",
@@ -51,9 +66,9 @@
       "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:202411",
+      "id": "tmdb:136311",
       "type": "series",
-      "name": "Monarch: Legacy of Monsters"
+      "name": "Shrinking"
     },
     {
       "id": "tmdb:254953",
@@ -61,39 +76,24 @@
       "name": "Rooster"
     },
     {
+      "id": "tmdb:108181",
+      "type": "series",
+      "name": "Imperfect Women"
+    },
+    {
       "id": "tmdb:294188",
       "type": "series",
       "name": "The Alibi"
     },
     {
-      "id": "tmdb:87917",
+      "id": "tmdb:95479",
       "type": "series",
-      "name": "For All Mankind"
+      "name": "Jujutsu Kaisen"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:297424",
       "type": "series",
-      "name": "The Village Barber"
-    },
-    {
-      "id": "tmdb:136311",
-      "type": "series",
-      "name": "Shrinking"
-    },
-    {
-      "id": "tmdb:95557",
-      "type": "series",
-      "name": "INVINCIBLE"
-    },
-    {
-      "id": "tmdb:4656",
-      "type": "series",
-      "name": "Raw"
-    },
-    {
-      "id": "tmdb:206828",
-      "type": "series",
-      "name": "DTF St. Louis"
+      "name": "Our Universe"
     }
   ],
   "cacheMaxAge": 3600
