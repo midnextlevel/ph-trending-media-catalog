@@ -1,11 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:195670",
-      "type": "series",
-      "name": "XO, Kitty"
-    },
-    {
       "id": "tmdb:127529",
       "type": "series",
       "name": "Bloodhounds"
@@ -14,6 +9,11 @@
       "id": "tmdb:311837",
       "type": "series",
       "name": "Blood vs Duty"
+    },
+    {
+      "id": "tmdb:195670",
+      "type": "series",
+      "name": "XO, Kitty"
     },
     {
       "id": "tmdb:243881",
@@ -41,9 +41,9 @@
       "name": "ONE PIECE"
     },
     {
-      "id": "tmdb:14180",
+      "id": "tmdb:287344",
       "type": "series",
-      "name": "The Passion"
+      "name": "The Practical Guide to Love"
     },
     {
       "id": "tmdb:310800",
@@ -61,9 +61,9 @@
       "name": "The Village Barber"
     },
     {
-      "id": "tmdb:85077",
+      "id": "tmdb:310935",
       "type": "series",
-      "name": "The Chosen"
+      "name": "Girl from Nowhere: The Reset"
     },
     {
       "id": "tmdb:294188",
@@ -76,9 +76,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:287344",
+      "id": "tmdb:14180",
       "type": "series",
-      "name": "The Practical Guide to Love"
+      "name": "The Passion"
     },
     {
       "id": "tmdb:136311",
