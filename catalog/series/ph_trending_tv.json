@@ -11,9 +11,9 @@
       "name": "Bloodhounds"
     },
     {
-      "id": "tmdb:311837",
+      "id": "tmdb:196950",
       "type": "series",
-      "name": "Blood vs Duty"
+      "name": "Witch Hat Atelier"
     },
     {
       "id": "tmdb:76479",
@@ -36,24 +36,9 @@
       "name": "INVINCIBLE"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:311837",
       "type": "series",
-      "name": "Witch Hat Atelier"
-    },
-    {
-      "id": "tmdb:287344",
-      "type": "series",
-      "name": "The Practical Guide to Love"
-    },
-    {
-      "id": "tmdb:310800",
-      "type": "series",
-      "name": "Siren's Kiss"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters"
+      "name": "Blood vs Duty"
     },
     {
       "id": "tmdb:85552",
@@ -61,14 +46,29 @@
       "name": "Euphoria"
     },
     {
+      "id": "tmdb:314531",
+      "type": "series",
+      "name": "The Silent Noise"
+    },
+    {
+      "id": "tmdb:202411",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters"
+    },
+    {
+      "id": "tmdb:287344",
+      "type": "series",
+      "name": "The Practical Guide to Love"
+    },
+    {
       "id": "tmdb:281010",
       "type": "series",
       "name": "Phantom Lawyer"
     },
     {
-      "id": "tmdb:294188",
+      "id": "tmdb:310800",
       "type": "series",
-      "name": "The Alibi"
+      "name": "Siren's Kiss"
     },
     {
       "id": "tmdb:241609",
@@ -76,9 +76,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:254953",
+      "id": "tmdb:312826",
       "type": "series",
-      "name": "Rooster"
+      "name": "The Village Barber"
     },
     {
       "id": "tmdb:136311",
@@ -86,9 +86,9 @@
       "name": "Shrinking"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:294188",
       "type": "series",
-      "name": "Y: Marshals"
+      "name": "The Alibi"
     },
     {
       "id": "tmdb:111110",
@@ -96,9 +96,9 @@
       "name": "ONE PIECE"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "The Village Barber"
+      "name": "Rooster"
     }
   ],
   "cacheMaxAge": 3600
