@@ -1,6 +1,11 @@
 {
   "metas": [
     {
+      "id": "tmdb:82684",
+      "type": "series",
+      "name": "That Time I Got Reincarnated as a Slime"
+    },
+    {
       "id": "tmdb:125282",
       "type": "series",
       "name": "The Cleaning Lady"
@@ -11,54 +16,9 @@
       "name": "Bloodhounds"
     },
     {
-      "id": "tmdb:196950",
-      "type": "series",
-      "name": "Witch Hat Atelier"
-    },
-    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys"
-    },
-    {
-      "id": "tmdb:195670",
-      "type": "series",
-      "name": "XO, Kitty"
-    },
-    {
-      "id": "tmdb:250307",
-      "type": "series",
-      "name": "The Pitt"
-    },
-    {
-      "id": "tmdb:95557",
-      "type": "series",
-      "name": "INVINCIBLE"
-    },
-    {
-      "id": "tmdb:311837",
-      "type": "series",
-      "name": "Blood vs Duty"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria"
-    },
-    {
-      "id": "tmdb:314531",
-      "type": "series",
-      "name": "The Silent Noise"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters"
-    },
-    {
-      "id": "tmdb:287344",
-      "type": "series",
-      "name": "The Practical Guide to Love"
     },
     {
       "id": "tmdb:281010",
@@ -66,9 +26,49 @@
       "name": "Phantom Lawyer"
     },
     {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": "The Pitt"
+    },
+    {
+      "id": "tmdb:314531",
+      "type": "series",
+      "name": "The Silent Noise"
+    },
+    {
+      "id": "tmdb:311837",
+      "type": "series",
+      "name": "Blood vs Duty"
+    },
+    {
+      "id": "tmdb:312826",
+      "type": "series",
+      "name": "The Village Barber"
+    },
+    {
       "id": "tmdb:310800",
       "type": "series",
       "name": "Siren's Kiss"
+    },
+    {
+      "id": "tmdb:202411",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
+    },
+    {
+      "id": "tmdb:196950",
+      "type": "series",
+      "name": "Witch Hat Atelier"
+    },
+    {
+      "id": "tmdb:95557",
+      "type": "series",
+      "name": "INVINCIBLE"
     },
     {
       "id": "tmdb:241609",
@@ -76,9 +76,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:287344",
       "type": "series",
-      "name": "The Village Barber"
+      "name": "The Practical Guide to Love"
     },
     {
       "id": "tmdb:136311",
@@ -91,9 +91,9 @@
       "name": "The Alibi"
     },
     {
-      "id": "tmdb:111110",
+      "id": "tmdb:195670",
       "type": "series",
-      "name": "ONE PIECE"
+      "name": "XO, Kitty"
     },
     {
       "id": "tmdb:254953",
