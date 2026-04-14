@@ -11,9 +11,9 @@
       "name": "Phantom Lawyer"
     },
     {
-      "id": "tmdb:260463",
+      "id": "tmdb:127529",
       "type": "series",
-      "name": "Daemons of the Shadow Realm"
+      "name": "Bloodhounds"
     },
     {
       "id": "tmdb:76479",
@@ -21,14 +21,14 @@
       "name": "The Boys"
     },
     {
-      "id": "tmdb:127529",
+      "id": "tmdb:260463",
       "type": "series",
-      "name": "Bloodhounds"
+      "name": "Daemons of the Shadow Realm"
     },
     {
-      "id": "tmdb:250307",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "The Pitt"
+      "name": "Euphoria"
     },
     {
       "id": "tmdb:314531",
@@ -36,14 +36,14 @@
       "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:82684",
+      "id": "tmdb:311837",
       "type": "series",
-      "name": "That Time I Got Reincarnated as a Slime"
+      "name": "Blood vs Duty"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:250307",
       "type": "series",
-      "name": "Euphoria"
+      "name": "The Pitt"
     },
     {
       "id": "tmdb:310800",
@@ -56,14 +56,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:312826",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "The Village Barber"
+      "name": "Rooster"
     },
     {
-      "id": "tmdb:311837",
+      "id": "tmdb:82684",
       "type": "series",
-      "name": "Blood vs Duty"
+      "name": "That Time I Got Reincarnated as a Slime"
     },
     {
       "id": "tmdb:95557",
@@ -76,9 +76,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:287344",
+      "id": "tmdb:206828",
       "type": "series",
-      "name": "The Practical Guide to Love"
+      "name": "DTF St. Louis"
     },
     {
       "id": "tmdb:136311",
@@ -86,19 +86,19 @@
       "name": "Shrinking"
     },
     {
-      "id": "tmdb:294188",
+      "id": "tmdb:290856",
       "type": "series",
-      "name": "The Alibi"
+      "name": "Y: Marshals"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:195670",
       "type": "series",
-      "name": "Witch Hat Atelier"
+      "name": "XO, Kitty"
     },
     {
-      "id": "tmdb:281965",
+      "id": "tmdb:312826",
       "type": "series",
-      "name": "Mad Concrete Dreams"
+      "name": "The Village Barber"
     }
   ],
   "cacheMaxAge": 3600
