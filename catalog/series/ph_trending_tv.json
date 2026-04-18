@@ -21,21 +21,6 @@
       "name": "The Boys"
     },
     {
-      "id": "tmdb:196950",
-      "type": "series",
-      "name": "Witch Hat Atelier"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria"
-    },
-    {
-      "id": "tmdb:95557",
-      "type": "series",
-      "name": "INVINCIBLE"
-    },
-    {
       "id": "tmdb:311837",
       "type": "series",
       "name": "Blood vs Duty"
@@ -49,6 +34,21 @@
       "id": "tmdb:314531",
       "type": "series",
       "name": "The Silent Noise"
+    },
+    {
+      "id": "tmdb:196950",
+      "type": "series",
+      "name": "Witch Hat Atelier"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
+    },
+    {
+      "id": "tmdb:95557",
+      "type": "series",
+      "name": "INVINCIBLE"
     },
     {
       "id": "tmdb:202411",
@@ -91,9 +91,9 @@
       "name": "The Alibi"
     },
     {
-      "id": "tmdb:195670",
+      "id": "tmdb:315595",
       "type": "series",
-      "name": "XO, Kitty"
+      "name": "Made with Love"
     },
     {
       "id": "tmdb:254953",
