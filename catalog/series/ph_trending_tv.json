@@ -6,9 +6,19 @@
       "name": "Sold Out on You"
     },
     {
+      "id": "tmdb:285838",
+      "type": "series",
+      "name": "If Wishes Could Kill"
+    },
+    {
       "id": "tmdb:281010",
       "type": "series",
       "name": "Phantom Lawyer"
+    },
+    {
+      "id": "tmdb:314531",
+      "type": "series",
+      "name": "The Silent Noise"
     },
     {
       "id": "tmdb:125282",
@@ -16,24 +26,14 @@
       "name": "The Cleaning Lady"
     },
     {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys"
-    },
-    {
-      "id": "tmdb:245842",
-      "type": "series",
-      "name": "Wistoria: Wand and Sword"
-    },
-    {
       "id": "tmdb:85552",
       "type": "series",
       "name": "Euphoria"
     },
     {
-      "id": "tmdb:95557",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "INVINCIBLE"
+      "name": "The Boys"
     },
     {
       "id": "tmdb:127529",
@@ -46,9 +46,9 @@
       "name": "The Pitt"
     },
     {
-      "id": "tmdb:314531",
+      "id": "tmdb:95557",
       "type": "series",
-      "name": "The Silent Noise"
+      "name": "INVINCIBLE"
     },
     {
       "id": "tmdb:202411",
@@ -56,34 +56,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:254953",
-      "type": "series",
-      "name": "Rooster"
-    },
-    {
-      "id": "tmdb:311837",
-      "type": "series",
-      "name": "Blood vs Duty"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From"
-    },
-    {
-      "id": "tmdb:245318",
-      "type": "series",
-      "name": "Margo's Got Money Troubles"
-    },
-    {
       "id": "tmdb:128995",
       "type": "series",
       "name": "Yumi's Cells"
     },
     {
-      "id": "tmdb:108181",
+      "id": "tmdb:224263",
       "type": "series",
-      "name": "Imperfect Women"
+      "name": "Stranger Things: Tales from '85"
     },
     {
       "id": "tmdb:310800",
@@ -91,9 +71,29 @@
       "name": "Siren's Kiss"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:241609",
       "type": "series",
-      "name": "Witch Hat Atelier"
+      "name": "Your Friends & Neighbors"
+    },
+    {
+      "id": "tmdb:124101",
+      "type": "series",
+      "name": "Hacks"
+    },
+    {
+      "id": "tmdb:245318",
+      "type": "series",
+      "name": "Margo's Got Money Troubles"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From"
+    },
+    {
+      "id": "tmdb:311837",
+      "type": "series",
+      "name": "Blood vs Duty"
     },
     {
       "id": "tmdb:312826",
