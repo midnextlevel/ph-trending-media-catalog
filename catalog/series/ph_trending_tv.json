@@ -21,21 +21,6 @@
       "name": "The Boys"
     },
     {
-      "id": "tmdb:287011",
-      "type": "series",
-      "name": "Sold Out on You"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria"
-    },
-    {
-      "id": "tmdb:314531",
-      "type": "series",
-      "name": "The Silent Noise"
-    },
-    {
       "id": "tmdb:281010",
       "type": "series",
       "name": "Phantom Lawyer"
@@ -46,9 +31,24 @@
       "name": "Filing for Love"
     },
     {
-      "id": "tmdb:314784",
+      "id": "tmdb:314531",
       "type": "series",
-      "name": "Absolute Value of Romance"
+      "name": "The Silent Noise"
+    },
+    {
+      "id": "tmdb:245842",
+      "type": "series",
+      "name": "Wistoria: Wand and Sword"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From"
     },
     {
       "id": "tmdb:202411",
@@ -61,14 +61,14 @@
       "name": "Yumi's Cells"
     },
     {
-      "id": "tmdb:96580",
+      "id": "tmdb:287011",
       "type": "series",
-      "name": "Resident Alien"
+      "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:95557",
       "type": "series",
-      "name": "From"
+      "name": "INVINCIBLE"
     },
     {
       "id": "tmdb:241609",
@@ -86,19 +86,19 @@
       "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:95557",
+      "id": "tmdb:314784",
       "type": "series",
-      "name": "INVINCIBLE"
+      "name": "Absolute Value of Romance"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:260463",
       "type": "series",
-      "name": "Witch Hat Atelier"
+      "name": "Daemons of the Shadow Realm"
     },
     {
-      "id": "tmdb:250307",
+      "id": "tmdb:62688",
       "type": "series",
-      "name": "The Pitt"
+      "name": "Supergirl"
     }
   ],
   "cacheMaxAge": 3600
