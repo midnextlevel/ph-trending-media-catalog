@@ -16,6 +16,21 @@
       "name": "Man on Fire"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From"
+    },
+    {
+      "id": "tmdb:245842",
+      "type": "series",
+      "name": "Wistoria: Wand and Sword"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
+    },
+    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys"
@@ -36,21 +51,6 @@
       "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:245842",
-      "type": "series",
-      "name": "Wistoria: Wand and Sword"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From"
-    },
-    {
       "id": "tmdb:202411",
       "type": "series",
       "name": "Monarch: Legacy of Monsters"
@@ -66,9 +66,9 @@
       "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:95557",
+      "id": "tmdb:290856",
       "type": "series",
-      "name": "INVINCIBLE"
+      "name": "Y: Marshals"
     },
     {
       "id": "tmdb:241609",
@@ -76,9 +76,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:311858",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "Prisoner"
+      "name": "Rooster"
     },
     {
       "id": "tmdb:245318",
@@ -86,19 +86,19 @@
       "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:314784",
+      "id": "tmdb:95557",
       "type": "series",
-      "name": "Absolute Value of Romance"
+      "name": "INVINCIBLE"
     },
     {
-      "id": "tmdb:260463",
+      "id": "tmdb:311837",
       "type": "series",
-      "name": "Daemons of the Shadow Realm"
+      "name": "Blood vs Duty"
     },
     {
-      "id": "tmdb:62688",
+      "id": "tmdb:311858",
       "type": "series",
-      "name": "Supergirl"
+      "name": "Prisoner"
     }
   ],
   "cacheMaxAge": 3600
