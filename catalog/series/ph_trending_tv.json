@@ -16,21 +16,6 @@
       "name": "Man on Fire"
     },
     {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From"
-    },
-    {
-      "id": "tmdb:196950",
-      "type": "series",
-      "name": "Witch Hat Atelier"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria"
-    },
-    {
       "id": "tmdb:76479",
       "type": "series",
       "name": "The Boys"
@@ -46,6 +31,21 @@
       "name": "Yumi's Cells"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From"
+    },
+    {
+      "id": "tmdb:196950",
+      "type": "series",
+      "name": "Witch Hat Atelier"
+    },
+    {
+      "id": "tmdb:297640",
+      "type": "series",
+      "name": "Filing for Love"
+    },
+    {
       "id": "tmdb:290856",
       "type": "series",
       "name": "Y: Marshals"
@@ -56,14 +56,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:297640",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Filing for Love"
+      "name": "Euphoria"
     },
     {
-      "id": "tmdb:245842",
+      "id": "tmdb:311837",
       "type": "series",
-      "name": "Wistoria: Wand and Sword"
+      "name": "Blood vs Duty"
     },
     {
       "id": "tmdb:314531",
@@ -71,29 +71,29 @@
       "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:241609",
-      "type": "series",
-      "name": "Your Friends & Neighbors"
-    },
-    {
-      "id": "tmdb:311858",
-      "type": "series",
-      "name": "Prisoner"
-    },
-    {
       "id": "tmdb:245318",
       "type": "series",
       "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:95557",
+      "id": "tmdb:319339",
       "type": "series",
-      "name": "INVINCIBLE"
+      "name": "구기동 프렌즈"
     },
     {
-      "id": "tmdb:311837",
+      "id": "tmdb:241609",
       "type": "series",
-      "name": "Blood vs Duty"
+      "name": "Your Friends & Neighbors"
+    },
+    {
+      "id": "tmdb:114922",
+      "type": "series",
+      "name": "Citadel"
+    },
+    {
+      "id": "tmdb:281010",
+      "type": "series",
+      "name": "Phantom Lawyer"
     },
     {
       "id": "tmdb:254953",
