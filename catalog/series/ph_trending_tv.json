@@ -1,24 +1,14 @@
 {
   "metas": [
     {
-      "id": "tmdb:306666",
-      "type": "series",
-      "name": "A Secret in Prague"
-    },
-    {
       "id": "tmdb:285838",
       "type": "series",
       "name": "If Wishes Could Kill"
     },
     {
-      "id": "tmdb:223386",
+      "id": "tmdb:306666",
       "type": "series",
-      "name": "Man on Fire"
-    },
-    {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys"
+      "name": "A Secret in Prague"
     },
     {
       "id": "tmdb:287011",
@@ -26,14 +16,24 @@
       "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:128995",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Yumi's Cells"
+      "name": "The Boys"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:223386",
       "type": "series",
-      "name": "From"
+      "name": "Man on Fire"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
+    },
+    {
+      "id": "tmdb:114922",
+      "type": "series",
+      "name": "Citadel"
     },
     {
       "id": "tmdb:196950",
@@ -46,9 +46,9 @@
       "name": "Filing for Love"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:124364",
       "type": "series",
-      "name": "Y: Marshals"
+      "name": "From"
     },
     {
       "id": "tmdb:202411",
@@ -56,14 +56,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:128995",
       "type": "series",
-      "name": "Euphoria"
+      "name": "Yumi's Cells"
     },
     {
-      "id": "tmdb:311837",
+      "id": "tmdb:281010",
       "type": "series",
-      "name": "Blood vs Duty"
+      "name": "Phantom Lawyer"
     },
     {
       "id": "tmdb:314531",
@@ -76,9 +76,9 @@
       "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:319339",
+      "id": "tmdb:62688",
       "type": "series",
-      "name": "구기동 프렌즈"
+      "name": "Supergirl"
     },
     {
       "id": "tmdb:241609",
@@ -86,19 +86,19 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:114922",
+      "id": "tmdb:290856",
       "type": "series",
-      "name": "Citadel"
+      "name": "Y: Marshals"
     },
     {
-      "id": "tmdb:281010",
+      "id": "tmdb:259259",
       "type": "series",
-      "name": "Phantom Lawyer"
+      "name": "Worst Ex Ever"
     },
     {
-      "id": "tmdb:254953",
+      "id": "tmdb:311858",
       "type": "series",
-      "name": "Rooster"
+      "name": "Prisoner"
     }
   ],
   "cacheMaxAge": 3600
