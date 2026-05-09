@@ -6,19 +6,19 @@
       "name": "If Wishes Could Kill"
     },
     {
-      "id": "tmdb:306666",
-      "type": "series",
-      "name": "A Secret in Prague"
-    },
-    {
       "id": "tmdb:287011",
       "type": "series",
       "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:76479",
+      "id": "tmdb:306666",
       "type": "series",
-      "name": "The Boys"
+      "name": "A Secret in Prague"
+    },
+    {
+      "id": "tmdb:305613",
+      "type": "series",
+      "name": "Love Is Never Gone"
     },
     {
       "id": "tmdb:223386",
@@ -26,14 +26,14 @@
       "name": "Man on Fire"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:128995",
       "type": "series",
-      "name": "Euphoria"
+      "name": "Yumi's Cells"
     },
     {
-      "id": "tmdb:114922",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Citadel"
+      "name": "The Boys"
     },
     {
       "id": "tmdb:196950",
@@ -46,9 +46,9 @@
       "name": "Filing for Love"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:114922",
       "type": "series",
-      "name": "From"
+      "name": "Citadel"
     },
     {
       "id": "tmdb:202411",
@@ -56,9 +56,9 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:128995",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Yumi's Cells"
+      "name": "Euphoria"
     },
     {
       "id": "tmdb:281010",
@@ -66,19 +66,9 @@
       "name": "Phantom Lawyer"
     },
     {
-      "id": "tmdb:314531",
+      "id": "tmdb:124364",
       "type": "series",
-      "name": "The Silent Noise"
-    },
-    {
-      "id": "tmdb:245318",
-      "type": "series",
-      "name": "Margo's Got Money Troubles"
-    },
-    {
-      "id": "tmdb:62688",
-      "type": "series",
-      "name": "Supergirl"
+      "name": "From"
     },
     {
       "id": "tmdb:241609",
@@ -86,19 +76,29 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:124101",
       "type": "series",
-      "name": "Y: Marshals"
+      "name": "Hacks"
     },
     {
-      "id": "tmdb:259259",
+      "id": "tmdb:245318",
       "type": "series",
-      "name": "Worst Ex Ever"
+      "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:311858",
+      "id": "tmdb:314531",
       "type": "series",
-      "name": "Prisoner"
+      "name": "The Silent Noise"
+    },
+    {
+      "id": "tmdb:311837",
+      "type": "series",
+      "name": "Blood vs Duty"
+    },
+    {
+      "id": "tmdb:319339",
+      "type": "series",
+      "name": "구기동 프렌즈"
     }
   ],
   "cacheMaxAge": 3600
