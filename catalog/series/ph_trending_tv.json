@@ -26,9 +26,9 @@
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:297640",
       "type": "series",
-      "name": "Euphoria"
+      "name": "Filing for Love"
     },
     {
       "id": "tmdb:76479",
@@ -36,14 +36,14 @@
       "name": "The Boys"
     },
     {
-      "id": "tmdb:287011",
+      "id": "tmdb:245842",
       "type": "series",
-      "name": "Sold Out on You"
+      "name": "Wistoria: Wand and Sword"
     },
     {
-      "id": "tmdb:297640",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Filing for Love"
+      "name": "Euphoria"
     },
     {
       "id": "tmdb:114922",
@@ -56,14 +56,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:124101",
+      "id": "tmdb:321388",
       "type": "series",
-      "name": "Hacks"
+      "name": "Song of the Samurai"
     },
     {
-      "id": "tmdb:82684",
+      "id": "tmdb:287011",
       "type": "series",
-      "name": "That Time I Got Reincarnated as a Slime"
+      "name": "Sold Out on You"
     },
     {
       "id": "tmdb:124364",
@@ -91,14 +91,14 @@
       "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:223386",
+      "id": "tmdb:260463",
       "type": "series",
-      "name": "Man on Fire"
+      "name": "Daemons of the Shadow Realm"
     },
     {
-      "id": "tmdb:321388",
+      "id": "tmdb:62688",
       "type": "series",
-      "name": "Song of the Samurai"
+      "name": "Supergirl"
     }
   ],
   "cacheMaxAge": 3600
