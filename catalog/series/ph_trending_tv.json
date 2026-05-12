@@ -11,29 +11,14 @@
       "name": "My Royal Nemesis"
     },
     {
-      "id": "tmdb:285838",
-      "type": "series",
-      "name": "If Wishes Could Kill"
-    },
-    {
-      "id": "tmdb:305613",
-      "type": "series",
-      "name": "Love Is Never Gone"
-    },
-    {
       "id": "tmdb:306666",
       "type": "series",
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:297640",
+      "id": "tmdb:305613",
       "type": "series",
-      "name": "Filing for Love"
-    },
-    {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys"
+      "name": "Love Is Never Gone"
     },
     {
       "id": "tmdb:245842",
@@ -46,6 +31,21 @@
       "name": "Euphoria"
     },
     {
+      "id": "tmdb:76479",
+      "type": "series",
+      "name": "The Boys"
+    },
+    {
+      "id": "tmdb:285838",
+      "type": "series",
+      "name": "If Wishes Could Kill"
+    },
+    {
+      "id": "tmdb:297640",
+      "type": "series",
+      "name": "Filing for Love"
+    },
+    {
       "id": "tmdb:114922",
       "type": "series",
       "name": "Citadel"
@@ -56,14 +56,9 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:321388",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "Song of the Samurai"
-    },
-    {
-      "id": "tmdb:287011",
-      "type": "series",
-      "name": "Sold Out on You"
+      "name": "Rooster"
     },
     {
       "id": "tmdb:124364",
@@ -91,14 +86,14 @@
       "name": "The Silent Noise"
     },
     {
-      "id": "tmdb:260463",
+      "id": "tmdb:287011",
       "type": "series",
-      "name": "Daemons of the Shadow Realm"
+      "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:62688",
+      "id": "tmdb:124101",
       "type": "series",
-      "name": "Supergirl"
+      "name": "Hacks"
     }
   ],
   "cacheMaxAge": 3600
