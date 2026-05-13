@@ -16,14 +16,14 @@
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:305613",
+      "id": "tmdb:124364",
       "type": "series",
-      "name": "Love Is Never Gone"
+      "name": "From"
     },
     {
-      "id": "tmdb:245842",
+      "id": "tmdb:285838",
       "type": "series",
-      "name": "Wistoria: Wand and Sword"
+      "name": "If Wishes Could Kill"
     },
     {
       "id": "tmdb:85552",
@@ -31,14 +31,14 @@
       "name": "Euphoria"
     },
     {
-      "id": "tmdb:76479",
+      "id": "tmdb:305613",
       "type": "series",
-      "name": "The Boys"
+      "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:285838",
+      "id": "tmdb:196950",
       "type": "series",
-      "name": "If Wishes Could Kill"
+      "name": "Witch Hat Atelier"
     },
     {
       "id": "tmdb:297640",
@@ -56,14 +56,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:254953",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Rooster"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "From"
+      "name": "The Boys"
     },
     {
       "id": "tmdb:241609",
@@ -71,9 +71,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:128995",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "Yumi's Cells"
+      "name": "Rooster"
     },
     {
       "id": "tmdb:245318",
@@ -81,9 +81,9 @@
       "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:314531",
+      "id": "tmdb:290856",
       "type": "series",
-      "name": "The Silent Noise"
+      "name": "Y: Marshals"
     },
     {
       "id": "tmdb:287011",
@@ -91,9 +91,9 @@
       "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:124101",
+      "id": "tmdb:128995",
       "type": "series",
-      "name": "Hacks"
+      "name": "Yumi's Cells"
     }
   ],
   "cacheMaxAge": 3600
