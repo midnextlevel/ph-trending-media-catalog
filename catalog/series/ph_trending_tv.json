@@ -16,14 +16,14 @@
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "From"
+      "name": "The Boys"
     },
     {
-      "id": "tmdb:285838",
+      "id": "tmdb:235930",
       "type": "series",
-      "name": "If Wishes Could Kill"
+      "name": "Devil May Cry"
     },
     {
       "id": "tmdb:85552",
@@ -36,24 +36,9 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:285838",
       "type": "series",
-      "name": "Witch Hat Atelier"
-    },
-    {
-      "id": "tmdb:297640",
-      "type": "series",
-      "name": "Filing for Love"
-    },
-    {
-      "id": "tmdb:114922",
-      "type": "series",
-      "name": "Citadel"
-    },
-    {
-      "id": "tmdb:202411",
-      "type": "series",
-      "name": "Monarch: Legacy of Monsters"
+      "name": "If Wishes Could Kill"
     },
     {
       "id": "tmdb:295509",
@@ -61,29 +46,19 @@
       "name": "The Legend of Kitchen Soldier"
     },
     {
-      "id": "tmdb:76479",
+      "id": "tmdb:273240",
       "type": "series",
-      "name": "The Boys"
+      "name": "Off Campus"
     },
     {
-      "id": "tmdb:241609",
+      "id": "tmdb:202411",
       "type": "series",
-      "name": "Your Friends & Neighbors"
+      "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:254953",
+      "id": "tmdb:297640",
       "type": "series",
-      "name": "Rooster"
-    },
-    {
-      "id": "tmdb:245318",
-      "type": "series",
-      "name": "Margo's Got Money Troubles"
-    },
-    {
-      "id": "tmdb:290856",
-      "type": "series",
-      "name": "Y: Marshals"
+      "name": "Filing for Love"
     },
     {
       "id": "tmdb:287011",
@@ -91,9 +66,39 @@
       "name": "Sold Out on You"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From"
+    },
+    {
+      "id": "tmdb:245318",
+      "type": "series",
+      "name": "Margo's Got Money Troubles"
+    },
+    {
       "id": "tmdb:128995",
       "type": "series",
       "name": "Yumi's Cells"
+    },
+    {
+      "id": "tmdb:270476",
+      "type": "series",
+      "name": "Widow's Bay"
+    },
+    {
+      "id": "tmdb:114922",
+      "type": "series",
+      "name": "Citadel"
+    },
+    {
+      "id": "tmdb:196950",
+      "type": "series",
+      "name": "Witch Hat Atelier"
+    },
+    {
+      "id": "tmdb:256695",
+      "type": "series",
+      "name": "Regular Show: The Lost Tapes"
     }
   ],
   "cacheMaxAge": 3600
