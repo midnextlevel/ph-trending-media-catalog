@@ -16,9 +16,9 @@
       "name": "My Royal Nemesis"
     },
     {
-      "id": "tmdb:273240",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Off Campus"
+      "name": "The Boys"
     },
     {
       "id": "tmdb:306666",
@@ -26,9 +26,24 @@
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Euphoria"
+      "name": "The Legend of Kitchen Soldier"
+    },
+    {
+      "id": "tmdb:273240",
+      "type": "series",
+      "name": "Off Campus"
+    },
+    {
+      "id": "tmdb:308014",
+      "type": "series",
+      "name": "Berlin and the Lady with an Ermine"
+    },
+    {
+      "id": "tmdb:297640",
+      "type": "series",
+      "name": "Filing for Love"
     },
     {
       "id": "tmdb:305613",
@@ -36,14 +51,19 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:245318",
       "type": "series",
-      "name": "Witch Hat Atelier"
+      "name": "Margo's Got Money Troubles"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "Euphoria"
+    },
+    {
+      "id": "tmdb:287011",
+      "type": "series",
+      "name": "Sold Out on You"
     },
     {
       "id": "tmdb:124364",
@@ -56,34 +76,14 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:297640",
-      "type": "series",
-      "name": "Filing for Love"
-    },
-    {
-      "id": "tmdb:308014",
-      "type": "series",
-      "name": "Berlin and the Lady with an Ermine"
-    },
-    {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys"
-    },
-    {
-      "id": "tmdb:241609",
-      "type": "series",
-      "name": "Your Friends & Neighbors"
-    },
-    {
       "id": "tmdb:128995",
       "type": "series",
       "name": "Yumi's Cells"
     },
     {
-      "id": "tmdb:245318",
+      "id": "tmdb:270476",
       "type": "series",
-      "name": "Margo's Got Money Troubles"
+      "name": "Widow's Bay"
     },
     {
       "id": "tmdb:290856",
@@ -96,9 +96,9 @@
       "name": "Nemesis"
     },
     {
-      "id": "tmdb:319339",
+      "id": "tmdb:302162",
       "type": "series",
-      "name": "구기동 프렌즈"
+      "name": "Song of the Samurai"
     }
   ],
   "cacheMaxAge": 3600
