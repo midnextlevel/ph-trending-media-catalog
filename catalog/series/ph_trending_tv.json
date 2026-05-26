@@ -41,9 +41,9 @@
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "Euphoria"
     },
     {
       "id": "tmdb:76479",
@@ -56,9 +56,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Euphoria"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
       "id": "tmdb:224941",
@@ -76,9 +76,9 @@
       "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:297712",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "Fifties Professionals"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:245318",
@@ -96,9 +96,9 @@
       "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:302162",
+      "id": "tmdb:128995",
       "type": "series",
-      "name": "Song of the Samurai"
+      "name": "Yumi's Cells"
     }
   ],
   "cacheMaxAge": 3600
