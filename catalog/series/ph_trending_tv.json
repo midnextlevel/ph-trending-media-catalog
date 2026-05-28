@@ -21,14 +21,14 @@
       "name": "Off Campus"
     },
     {
-      "id": "tmdb:306666",
+      "id": "tmdb:318167",
       "type": "series",
-      "name": "A Secret in Prague"
+      "name": "Jae-seok's B&B Rules!"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Euphoria"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
       "id": "tmdb:305613",
@@ -41,14 +41,14 @@
       "name": "The Boroughs"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "Euphoria"
     },
     {
-      "id": "tmdb:76479",
+      "id": "tmdb:220102",
       "type": "series",
-      "name": "The Boys"
+      "name": "Spider-Noir"
     },
     {
       "id": "tmdb:241609",
@@ -61,19 +61,19 @@
       "name": "Filing for Love"
     },
     {
-      "id": "tmdb:196950",
+      "id": "tmdb:306666",
       "type": "series",
-      "name": "Witch Hat Atelier"
+      "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Marshals"
+      "name": "The Boys"
     },
     {
-      "id": "tmdb:202411",
+      "id": "tmdb:270476",
       "type": "series",
-      "name": "Monarch: Legacy of Monsters"
+      "name": "Widow's Bay"
     },
     {
       "id": "tmdb:60625",
@@ -81,14 +81,14 @@
       "name": "Rick and Morty"
     },
     {
-      "id": "tmdb:245318",
+      "id": "tmdb:202411",
       "type": "series",
-      "name": "Margo's Got Money Troubles"
+      "name": "Monarch: Legacy of Monsters"
     },
     {
-      "id": "tmdb:299167",
+      "id": "tmdb:290856",
       "type": "series",
-      "name": "Dutton Ranch"
+      "name": "Marshals"
     },
     {
       "id": "tmdb:287011",
@@ -96,9 +96,9 @@
       "name": "Sold Out on You"
     },
     {
-      "id": "tmdb:302162",
+      "id": "tmdb:297712",
       "type": "series",
-      "name": "Song of the Samurai"
+      "name": "Fifties Professionals"
     }
   ],
   "cacheMaxAge": 3600
