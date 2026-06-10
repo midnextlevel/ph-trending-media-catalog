@@ -6,14 +6,14 @@
       "name": "Teach You a Lesson"
     },
     {
-      "id": "tmdb:303143",
-      "type": "series",
-      "name": "My Royal Nemesis"
-    },
-    {
       "id": "tmdb:280511",
       "type": "series",
       "name": "The Witness"
+    },
+    {
+      "id": "tmdb:303143",
+      "type": "series",
+      "name": "My Royal Nemesis"
     },
     {
       "id": "tmdb:305613",
@@ -36,24 +36,9 @@
       "name": "Off Campus"
     },
     {
-      "id": "tmdb:245842",
+      "id": "tmdb:320973",
       "type": "series",
-      "name": "Wistoria: Wand and Sword"
-    },
-    {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick and Morty"
-    },
-    {
-      "id": "tmdb:220102",
-      "type": "series",
-      "name": "Spider-Noir"
-    },
-    {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay"
+      "name": "The Master Cutter"
     },
     {
       "id": "tmdb:297640",
@@ -61,14 +46,29 @@
       "name": "Filing for Love"
     },
     {
-      "id": "tmdb:320973",
-      "type": "series",
-      "name": "The Master Cutter"
-    },
-    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From"
+    },
+    {
+      "id": "tmdb:270476",
+      "type": "series",
+      "name": "Widow's Bay"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick and Morty"
+    },
+    {
+      "id": "tmdb:196950",
+      "type": "series",
+      "name": "Witch Hat Atelier"
+    },
+    {
+      "id": "tmdb:220102",
+      "type": "series",
+      "name": "Spider-Noir"
     },
     {
       "id": "tmdb:241609",
@@ -96,9 +96,9 @@
       "name": "A Secret in Prague"
     },
     {
-      "id": "tmdb:302162",
+      "id": "tmdb:322785",
       "type": "series",
-      "name": "Song of the Samurai"
+      "name": "100 Cooks"
     }
   ],
   "cacheMaxAge": 3600
