@@ -11,9 +11,9 @@
       "name": "Viral Hit"
     },
     {
-      "id": "tmdb:280511",
+      "id": "tmdb:303143",
       "type": "series",
-      "name": "The Witness"
+      "name": "My Royal Nemesis"
     },
     {
       "id": "tmdb:305613",
@@ -21,9 +21,9 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:259837",
+      "id": "tmdb:280511",
       "type": "series",
-      "name": "The WONDERfools"
+      "name": "The Witness"
     },
     {
       "id": "tmdb:295509",
@@ -36,9 +36,9 @@
       "name": "Every Year After"
     },
     {
-      "id": "tmdb:303143",
+      "id": "tmdb:82684",
       "type": "series",
-      "name": "My Royal Nemesis"
+      "name": "That Time I Got Reincarnated as a Slime"
     },
     {
       "id": "tmdb:297640",
@@ -61,9 +61,9 @@
       "name": "Euphoria"
     },
     {
-      "id": "tmdb:320973",
+      "id": "tmdb:259837",
       "type": "series",
-      "name": "The Master Cutter"
+      "name": "The WONDERfools"
     },
     {
       "id": "tmdb:220102",
@@ -76,9 +76,9 @@
       "name": "Cape Fear"
     },
     {
-      "id": "tmdb:297712",
+      "id": "tmdb:302162",
       "type": "series",
-      "name": "Fifties Professionals"
+      "name": "Song of the Samurai"
     },
     {
       "id": "tmdb:241609",
@@ -86,9 +86,9 @@
       "name": "Your Friends & Neighbors"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:299167",
       "type": "series",
-      "name": "From"
+      "name": "Dutton Ranch"
     },
     {
       "id": "tmdb:112833",
@@ -96,9 +96,9 @@
       "name": "Juvenile Justice"
     },
     {
-      "id": "tmdb:302162",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "Song of the Samurai"
+      "name": "Rick and Morty"
     }
   ],
   "cacheMaxAge": 3600
