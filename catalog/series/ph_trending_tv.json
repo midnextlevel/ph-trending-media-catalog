@@ -6,14 +6,14 @@
       "name": "Teach You a Lesson"
     },
     {
-      "id": "tmdb:312493",
-      "type": "series",
-      "name": "Viral Hit"
-    },
-    {
       "id": "tmdb:278178",
       "type": "series",
       "name": "I Will Find You"
+    },
+    {
+      "id": "tmdb:312493",
+      "type": "series",
+      "name": "Viral Hit"
     },
     {
       "id": "tmdb:305613",
@@ -41,9 +41,9 @@
       "name": "My Royal Nemesis"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:94997",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "House of the Dragon"
     },
     {
       "id": "tmdb:260592",
@@ -56,9 +56,9 @@
       "name": "Widow's Bay"
     },
     {
-      "id": "tmdb:297640",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "Filing for Love"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:259837",
@@ -71,19 +71,19 @@
       "name": "From"
     },
     {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Cape Fear"
+    },
+    {
+      "id": "tmdb:297640",
+      "type": "series",
+      "name": "Filing for Love"
+    },
+    {
       "id": "tmdb:241609",
       "type": "series",
       "name": "Your Friends & Neighbors"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria"
-    },
-    {
-      "id": "tmdb:285404",
-      "type": "series",
-      "name": "Maximum Pleasure Guaranteed"
     },
     {
       "id": "tmdb:220102",
@@ -91,14 +91,14 @@
       "name": "Spider-Noir"
     },
     {
-      "id": "tmdb:322803",
+      "id": "tmdb:300054",
       "type": "series",
-      "name": "Outlast: The Jungle"
+      "name": "BAKI-DOU: The Invincible Samurai"
     },
     {
-      "id": "tmdb:302162",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Song of the Samurai"
+      "name": "Euphoria"
     }
   ],
   "cacheMaxAge": 3600
