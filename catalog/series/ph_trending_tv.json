@@ -1,14 +1,14 @@
 {
   "metas": [
     {
-      "id": "tmdb:276161",
-      "type": "series",
-      "name": "Teach You a Lesson"
-    },
-    {
       "id": "tmdb:278178",
       "type": "series",
       "name": "I Will Find You"
+    },
+    {
+      "id": "tmdb:276161",
+      "type": "series",
+      "name": "Teach You a Lesson"
     },
     {
       "id": "tmdb:303143",
@@ -21,9 +21,24 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:312493",
+      "id": "tmdb:245842",
       "type": "series",
-      "name": "Viral Hit"
+      "name": "Wistoria: Wand and Sword"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "House of the Dragon"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From"
+    },
+    {
+      "id": "tmdb:112833",
+      "type": "series",
+      "name": "Juvenile Justice"
     },
     {
       "id": "tmdb:295509",
@@ -36,44 +51,9 @@
       "name": "Off Campus"
     },
     {
-      "id": "tmdb:245842",
-      "type": "series",
-      "name": "Wistoria: Wand and Sword"
-    },
-    {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon"
-    },
-    {
-      "id": "tmdb:299167",
-      "type": "series",
-      "name": "Dutton Ranch"
-    },
-    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay"
-    },
-    {
-      "id": "tmdb:302162",
-      "type": "series",
-      "name": "Song of the Samurai"
-    },
-    {
-      "id": "tmdb:112833",
-      "type": "series",
-      "name": "Juvenile Justice"
-    },
-    {
-      "id": "tmdb:260592",
-      "type": "series",
-      "name": "Every Year After"
-    },
-    {
-      "id": "tmdb:277439",
-      "type": "series",
-      "name": "Cape Fear"
     },
     {
       "id": "tmdb:60625",
@@ -81,24 +61,44 @@
       "name": "Rick and Morty"
     },
     {
-      "id": "tmdb:241609",
-      "type": "series",
-      "name": "Your Friends & Neighbors"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From"
-    },
-    {
       "id": "tmdb:300054",
       "type": "series",
       "name": "BAKI-DOU: The Invincible Samurai"
     },
     {
-      "id": "tmdb:297712",
+      "id": "tmdb:299167",
       "type": "series",
-      "name": "Fifties Professionals"
+      "name": "Dutton Ranch"
+    },
+    {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Cape Fear"
+    },
+    {
+      "id": "tmdb:302162",
+      "type": "series",
+      "name": "Song of the Samurai"
+    },
+    {
+      "id": "tmdb:241609",
+      "type": "series",
+      "name": "Your Friends & Neighbors"
+    },
+    {
+      "id": "tmdb:260592",
+      "type": "series",
+      "name": "Every Year After"
+    },
+    {
+      "id": "tmdb:312493",
+      "type": "series",
+      "name": "Viral Hit"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria"
     }
   ],
   "cacheMaxAge": 3600
