@@ -31,9 +31,9 @@
       "name": "House of the Dragon"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:273240",
       "type": "series",
-      "name": "From"
+      "name": "Off Campus"
     },
     {
       "id": "tmdb:300054",
@@ -41,14 +41,14 @@
       "name": "BAKI-DOU: The Invincible Samurai"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "Rick and Morty"
     },
     {
-      "id": "tmdb:273240",
+      "id": "tmdb:124364",
       "type": "series",
-      "name": "Off Campus"
+      "name": "From"
     },
     {
       "id": "tmdb:270476",
@@ -56,9 +56,9 @@
       "name": "Widow's Bay"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
       "id": "tmdb:259837",
@@ -71,19 +71,19 @@
       "name": "See You at Work Tomorrow!"
     },
     {
-      "id": "tmdb:285404",
-      "type": "series",
-      "name": "Maximum Pleasure Guaranteed"
-    },
-    {
-      "id": "tmdb:224372",
-      "type": "series",
-      "name": "A Knight of the Seven Kingdoms"
-    },
-    {
       "id": "tmdb:203744",
       "type": "series",
       "name": "Sugar"
+    },
+    {
+      "id": "tmdb:297712",
+      "type": "series",
+      "name": "Fifties Professionals"
+    },
+    {
+      "id": "tmdb:285404",
+      "type": "series",
+      "name": "Maximum Pleasure Guaranteed"
     },
     {
       "id": "tmdb:260592",
@@ -96,9 +96,9 @@
       "name": "The Master Cutter"
     },
     {
-      "id": "tmdb:90228",
+      "id": "tmdb:85552",
       "type": "series",
-      "name": "Dune: Prophecy"
+      "name": "Euphoria"
     }
   ],
   "cacheMaxAge": 3600
