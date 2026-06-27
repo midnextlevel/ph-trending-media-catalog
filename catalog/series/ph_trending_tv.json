@@ -1,6 +1,11 @@
 {
   "metas": [
     {
+      "id": "tmdb:82452",
+      "type": "series",
+      "name": "Avatar the Last Airbender"
+    },
+    {
       "id": "tmdb:278178",
       "type": "series",
       "name": "I Will Find You"
@@ -11,14 +16,24 @@
       "name": "Teach You a Lesson"
     },
     {
+      "id": "tmdb:305613",
+      "type": "series",
+      "name": "Love Is Never Gone"
+    },
+    {
       "id": "tmdb:112833",
       "type": "series",
       "name": "Juvenile Justice"
     },
     {
-      "id": "tmdb:305613",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Love Is Never Gone"
+      "name": "The Legend of Kitchen Soldier"
+    },
+    {
+      "id": "tmdb:273240",
+      "type": "series",
+      "name": "Off Campus"
     },
     {
       "id": "tmdb:303143",
@@ -31,21 +46,6 @@
       "name": "House of the Dragon"
     },
     {
-      "id": "tmdb:273240",
-      "type": "series",
-      "name": "Off Campus"
-    },
-    {
-      "id": "tmdb:300054",
-      "type": "series",
-      "name": "BAKI-DOU: The Invincible Samurai"
-    },
-    {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick and Morty"
-    },
-    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "From"
@@ -56,14 +56,14 @@
       "name": "Widow's Bay"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "Rick and Morty"
     },
     {
-      "id": "tmdb:259837",
+      "id": "tmdb:286360",
       "type": "series",
-      "name": "The WONDERfools"
+      "name": "Notes from the Last Row"
     },
     {
       "id": "tmdb:289763",
@@ -71,9 +71,9 @@
       "name": "See You at Work Tomorrow!"
     },
     {
-      "id": "tmdb:203744",
+      "id": "tmdb:277439",
       "type": "series",
-      "name": "Sugar"
+      "name": "Cape Fear"
     },
     {
       "id": "tmdb:297712",
@@ -81,9 +81,9 @@
       "name": "Fifties Professionals"
     },
     {
-      "id": "tmdb:285404",
+      "id": "tmdb:203744",
       "type": "series",
-      "name": "Maximum Pleasure Guaranteed"
+      "name": "Sugar"
     },
     {
       "id": "tmdb:260592",
@@ -91,14 +91,14 @@
       "name": "Every Year After"
     },
     {
-      "id": "tmdb:320973",
+      "id": "tmdb:296206",
       "type": "series",
-      "name": "The Master Cutter"
+      "name": "Agent Kim Reactivated"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:224372",
       "type": "series",
-      "name": "Euphoria"
+      "name": "A Knight of the Seven Kingdoms"
     }
   ],
   "cacheMaxAge": 3600
