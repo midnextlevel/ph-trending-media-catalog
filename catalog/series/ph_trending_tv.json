@@ -11,9 +11,9 @@
       "name": "Avatar the Last Airbender"
     },
     {
-      "id": "tmdb:276161",
+      "id": "tmdb:94664",
       "type": "series",
-      "name": "Teach You a Lesson"
+      "name": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
       "id": "tmdb:254420",
@@ -21,9 +21,9 @@
       "name": "Elle"
     },
     {
-      "id": "tmdb:253960",
+      "id": "tmdb:276161",
       "type": "series",
-      "name": "Human Vapor"
+      "name": "Teach You a Lesson"
     },
     {
       "id": "tmdb:94997",
@@ -36,9 +36,9 @@
       "name": "The Loyalty Game"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:253960",
       "type": "series",
-      "name": "I Will Find You"
+      "name": "Human Vapor"
     },
     {
       "id": "tmdb:243875",
@@ -56,9 +56,9 @@
       "name": "Silo"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
       "id": "tmdb:232766",
@@ -76,9 +76,9 @@
       "name": "Widow's Bay"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:224372",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "A Knight of the Seven Kingdoms"
     },
     {
       "id": "tmdb:277439",
@@ -91,14 +91,14 @@
       "name": "From"
     },
     {
-      "id": "tmdb:286360",
+      "id": "tmdb:278178",
       "type": "series",
-      "name": "Notes from the Last Row"
+      "name": "I Will Find You"
     },
     {
-      "id": "tmdb:323204",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "언더커버 셰프"
+      "name": "Rick and Morty"
     }
   ],
   "cacheMaxAge": 3600
