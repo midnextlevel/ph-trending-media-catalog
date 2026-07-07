@@ -46,9 +46,9 @@
       "name": "Georgie & Mandy's First Marriage"
     },
     {
-      "id": "tmdb:289763",
+      "id": "tmdb:273240",
       "type": "series",
-      "name": "See You at Work Tomorrow!"
+      "name": "Off Campus"
     },
     {
       "id": "tmdb:125988",
@@ -56,9 +56,9 @@
       "name": "Silo"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:232766",
@@ -66,9 +66,9 @@
       "name": "Mercy for None"
     },
     {
-      "id": "tmdb:273240",
+      "id": "tmdb:289763",
       "type": "series",
-      "name": "Off Campus"
+      "name": "See You at Work Tomorrow!"
     },
     {
       "id": "tmdb:270476",
@@ -76,9 +76,9 @@
       "name": "Widow's Bay"
     },
     {
-      "id": "tmdb:224372",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "A Knight of the Seven Kingdoms"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
       "id": "tmdb:277439",
@@ -86,9 +86,9 @@
       "name": "Cape Fear"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:299167",
       "type": "series",
-      "name": "From"
+      "name": "Dutton Ranch"
     },
     {
       "id": "tmdb:278178",
@@ -96,9 +96,9 @@
       "name": "I Will Find You"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:295780",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "Life, Larry and the Pursuit of Unhappiness"
     }
   ],
   "cacheMaxAge": 3600
