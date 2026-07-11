@@ -6,14 +6,14 @@
       "name": "Agent Kim Reactivated"
     },
     {
-      "id": "tmdb:82452",
-      "type": "series",
-      "name": "Avatar the Last Airbender"
-    },
-    {
       "id": "tmdb:276161",
       "type": "series",
       "name": "Teach You a Lesson"
+    },
+    {
+      "id": "tmdb:82452",
+      "type": "series",
+      "name": "Avatar the Last Airbender"
     },
     {
       "id": "tmdb:319720",
@@ -61,9 +61,9 @@
       "name": "Rick and Morty"
     },
     {
-      "id": "tmdb:94664",
+      "id": "tmdb:278178",
       "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation"
+      "name": "I Will Find You"
     },
     {
       "id": "tmdb:273240",
@@ -71,19 +71,19 @@
       "name": "Off Campus"
     },
     {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Cape Fear"
+    },
+    {
+      "id": "tmdb:295509",
+      "type": "series",
+      "name": "The Legend of Kitchen Soldier"
+    },
+    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay"
-    },
-    {
-      "id": "tmdb:323204",
-      "type": "series",
-      "name": "언더커버 셰프"
-    },
-    {
-      "id": "tmdb:285404",
-      "type": "series",
-      "name": "Maximum Pleasure Guaranteed"
     },
     {
       "id": "tmdb:305613",
@@ -91,14 +91,14 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:94664",
       "type": "series",
-      "name": "I Will Find You"
+      "name": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
-      "id": "tmdb:295509",
+      "id": "tmdb:323204",
       "type": "series",
-      "name": "The Legend of Kitchen Soldier"
+      "name": "언더커버 셰프"
     }
   ],
   "cacheMaxAge": 3600
