@@ -41,9 +41,9 @@
       "name": "Mercy for None"
     },
     {
-      "id": "tmdb:243875",
+      "id": "tmdb:1399",
       "type": "series",
-      "name": "Georgie & Mandy's First Marriage"
+      "name": "Game of Thrones"
     },
     {
       "id": "tmdb:289763",
@@ -91,14 +91,14 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:94664",
+      "id": "tmdb:82684",
       "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation"
+      "name": "That Time I Got Reincarnated as a Slime"
     },
     {
-      "id": "tmdb:323204",
+      "id": "tmdb:283151",
       "type": "series",
-      "name": "언더커버 셰프"
+      "name": "The Five Star Weekend"
     }
   ],
   "cacheMaxAge": 3600
