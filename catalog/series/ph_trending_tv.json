@@ -6,14 +6,14 @@
       "name": "Agent Kim Reactivated"
     },
     {
-      "id": "tmdb:276161",
+      "id": "tmdb:300727",
       "type": "series",
-      "name": "Teach You a Lesson"
+      "name": "The Apartment Job"
     },
     {
-      "id": "tmdb:82452",
+      "id": "tmdb:94664",
       "type": "series",
-      "name": "Avatar the Last Airbender"
+      "name": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
       "id": "tmdb:319720",
@@ -21,9 +21,9 @@
       "name": "The Loyalty Game"
     },
     {
-      "id": "tmdb:253960",
+      "id": "tmdb:276161",
       "type": "series",
-      "name": "Human Vapor"
+      "name": "Teach You a Lesson"
     },
     {
       "id": "tmdb:94997",
@@ -36,14 +36,14 @@
       "name": "Elle"
     },
     {
-      "id": "tmdb:232766",
+      "id": "tmdb:82452",
       "type": "series",
-      "name": "Mercy for None"
+      "name": "Avatar the Last Airbender"
     },
     {
-      "id": "tmdb:1399",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "Game of Thrones"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:289763",
@@ -56,14 +56,14 @@
       "name": "Silo"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:243875",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "Georgie & Mandy's First Marriage"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:232766",
       "type": "series",
-      "name": "I Will Find You"
+      "name": "Mercy for None"
     },
     {
       "id": "tmdb:273240",
@@ -71,19 +71,19 @@
       "name": "Off Campus"
     },
     {
-      "id": "tmdb:277439",
-      "type": "series",
-      "name": "Cape Fear"
-    },
-    {
-      "id": "tmdb:295509",
-      "type": "series",
-      "name": "The Legend of Kitchen Soldier"
-    },
-    {
       "id": "tmdb:270476",
       "type": "series",
       "name": "Widow's Bay"
+    },
+    {
+      "id": "tmdb:283151",
+      "type": "series",
+      "name": "The Five Star Weekend"
+    },
+    {
+      "id": "tmdb:277439",
+      "type": "series",
+      "name": "Cape Fear"
     },
     {
       "id": "tmdb:305613",
@@ -91,14 +91,14 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:82684",
+      "id": "tmdb:278178",
       "type": "series",
-      "name": "That Time I Got Reincarnated as a Slime"
+      "name": "I Will Find You"
     },
     {
-      "id": "tmdb:283151",
+      "id": "tmdb:295780",
       "type": "series",
-      "name": "The Five Star Weekend"
+      "name": "Life, Larry and the Pursuit of Unhappiness"
     }
   ],
   "cacheMaxAge": 3600
