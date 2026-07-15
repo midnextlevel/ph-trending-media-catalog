@@ -11,39 +11,9 @@
       "name": "The Apartment Job"
     },
     {
-      "id": "tmdb:94664",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation"
-    },
-    {
-      "id": "tmdb:319720",
-      "type": "series",
-      "name": "The Loyalty Game"
-    },
-    {
       "id": "tmdb:276161",
       "type": "series",
       "name": "Teach You a Lesson"
-    },
-    {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "House of the Dragon"
-    },
-    {
-      "id": "tmdb:254420",
-      "type": "series",
-      "name": "Elle"
-    },
-    {
-      "id": "tmdb:82452",
-      "type": "series",
-      "name": "Avatar the Last Airbender"
-    },
-    {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:289763",
@@ -51,19 +21,49 @@
       "name": "See You at Work Tomorrow!"
     },
     {
-      "id": "tmdb:125988",
+      "id": "tmdb:82452",
       "type": "series",
-      "name": "Silo"
+      "name": "Avatar the Last Airbender"
     },
     {
-      "id": "tmdb:243875",
+      "id": "tmdb:94997",
       "type": "series",
-      "name": "Georgie & Mandy's First Marriage"
+      "name": "House of the Dragon"
+    },
+    {
+      "id": "tmdb:319720",
+      "type": "series",
+      "name": "The Loyalty Game"
     },
     {
       "id": "tmdb:232766",
       "type": "series",
       "name": "Mercy for None"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick and Morty"
+    },
+    {
+      "id": "tmdb:254420",
+      "type": "series",
+      "name": "Elle"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo"
+    },
+    {
+      "id": "tmdb:90228",
+      "type": "series",
+      "name": "Dune: Prophecy"
+    },
+    {
+      "id": "tmdb:94664",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
       "id": "tmdb:273240",
@@ -76,9 +76,9 @@
       "name": "Widow's Bay"
     },
     {
-      "id": "tmdb:283151",
+      "id": "tmdb:295509",
       "type": "series",
-      "name": "The Five Star Weekend"
+      "name": "The Legend of Kitchen Soldier"
     },
     {
       "id": "tmdb:277439",
@@ -91,14 +91,14 @@
       "name": "Love Is Never Gone"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:283304",
       "type": "series",
-      "name": "I Will Find You"
+      "name": "Little House on the Prairie"
     },
     {
-      "id": "tmdb:295780",
+      "id": "tmdb:243875",
       "type": "series",
-      "name": "Life, Larry and the Pursuit of Unhappiness"
+      "name": "Georgie & Mandy's First Marriage"
     }
   ],
   "cacheMaxAge": 3600
