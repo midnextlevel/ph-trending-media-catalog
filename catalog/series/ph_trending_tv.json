@@ -41,9 +41,9 @@
       "name": "Mercy for None"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:243875",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "Georgie & Mandy's First Marriage"
     },
     {
       "id": "tmdb:254420",
@@ -51,44 +51,14 @@
       "name": "Elle"
     },
     {
-      "id": "tmdb:125988",
+      "id": "tmdb:278624",
       "type": "series",
-      "name": "Silo"
+      "name": "Lucky"
     },
     {
-      "id": "tmdb:90228",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "Dune: Prophecy"
-    },
-    {
-      "id": "tmdb:94664",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation"
-    },
-    {
-      "id": "tmdb:273240",
-      "type": "series",
-      "name": "Off Campus"
-    },
-    {
-      "id": "tmdb:270476",
-      "type": "series",
-      "name": "Widow's Bay"
-    },
-    {
-      "id": "tmdb:295509",
-      "type": "series",
-      "name": "The Legend of Kitchen Soldier"
-    },
-    {
-      "id": "tmdb:277439",
-      "type": "series",
-      "name": "Cape Fear"
-    },
-    {
-      "id": "tmdb:305613",
-      "type": "series",
-      "name": "Love Is Never Gone"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:283304",
@@ -96,9 +66,39 @@
       "name": "Little House on the Prairie"
     },
     {
-      "id": "tmdb:243875",
+      "id": "tmdb:273240",
       "type": "series",
-      "name": "Georgie & Mandy's First Marriage"
+      "name": "Off Campus"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo"
+    },
+    {
+      "id": "tmdb:283151",
+      "type": "series",
+      "name": "The Five Star Weekend"
+    },
+    {
+      "id": "tmdb:285404",
+      "type": "series",
+      "name": "Maximum Pleasure Guaranteed"
+    },
+    {
+      "id": "tmdb:305613",
+      "type": "series",
+      "name": "Love Is Never Gone"
+    },
+    {
+      "id": "tmdb:94664",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    {
+      "id": "tmdb:322785",
+      "type": "series",
+      "name": "100 Cooks"
     }
   ],
   "cacheMaxAge": 3600
