@@ -6,14 +6,14 @@
       "name": "Agent Kim Reactivated"
     },
     {
+      "id": "tmdb:279323",
+      "type": "series",
+      "name": "The East Palace"
+    },
+    {
       "id": "tmdb:300727",
       "type": "series",
       "name": "The Apartment Job"
-    },
-    {
-      "id": "tmdb:276161",
-      "type": "series",
-      "name": "Teach You a Lesson"
     },
     {
       "id": "tmdb:319720",
@@ -21,9 +21,9 @@
       "name": "The Loyalty Game"
     },
     {
-      "id": "tmdb:82452",
+      "id": "tmdb:276161",
       "type": "series",
-      "name": "Avatar the Last Airbender"
+      "name": "Teach You a Lesson"
     },
     {
       "id": "tmdb:94997",
@@ -36,9 +36,9 @@
       "name": "See You at Work Tomorrow!"
     },
     {
-      "id": "tmdb:232766",
+      "id": "tmdb:82452",
       "type": "series",
-      "name": "Mercy for None"
+      "name": "Avatar the Last Airbender"
     },
     {
       "id": "tmdb:243875",
@@ -56,14 +56,14 @@
       "name": "Lucky"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:316205",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "Deep Revenge"
     },
     {
-      "id": "tmdb:283304",
+      "id": "tmdb:232766",
       "type": "series",
-      "name": "Little House on the Prairie"
+      "name": "Mercy for None"
     },
     {
       "id": "tmdb:254420",
@@ -76,9 +76,9 @@
       "name": "Silo"
     },
     {
-      "id": "tmdb:283151",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "The Five Star Weekend"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:285404",
@@ -91,14 +91,14 @@
       "name": "Off Campus"
     },
     {
-      "id": "tmdb:278178",
+      "id": "tmdb:296286",
       "type": "series",
-      "name": "I Will Find You"
+      "name": "Smoking Behind the Supermarket with You"
     },
     {
-      "id": "tmdb:322785",
+      "id": "tmdb:283151",
       "type": "series",
-      "name": "100 Cooks"
+      "name": "The Five Star Weekend"
     }
   ],
   "cacheMaxAge": 3600
