@@ -21,9 +21,9 @@
       "name": "The Loyalty Game"
     },
     {
-      "id": "tmdb:94664",
+      "id": "tmdb:300727",
       "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation"
+      "name": "The Apartment Job"
     },
     {
       "id": "tmdb:94997",
@@ -36,9 +36,9 @@
       "name": "See You at Work Tomorrow!"
     },
     {
-      "id": "tmdb:300727",
+      "id": "tmdb:276161",
       "type": "series",
-      "name": "The Apartment Job"
+      "name": "Teach You a Lesson"
     },
     {
       "id": "tmdb:60625",
@@ -61,9 +61,9 @@
       "name": "Georgie & Mandy's First Marriage"
     },
     {
-      "id": "tmdb:276161",
+      "id": "tmdb:94664",
       "type": "series",
-      "name": "Teach You a Lesson"
+      "name": "Mushoku Tensei: Jobless Reincarnation"
     },
     {
       "id": "tmdb:254420",
@@ -76,9 +76,9 @@
       "name": "Silo"
     },
     {
-      "id": "tmdb:323204",
+      "id": "tmdb:283151",
       "type": "series",
-      "name": "언더커버 셰프"
+      "name": "The Five Star Weekend"
     },
     {
       "id": "tmdb:285404",
@@ -96,9 +96,9 @@
       "name": "Avatar the Last Airbender"
     },
     {
-      "id": "tmdb:295780",
+      "id": "tmdb:322785",
       "type": "series",
-      "name": "Life, Larry and the Pursuit of Unhappiness"
+      "name": "100 Cooks"
     }
   ],
   "cacheMaxAge": 3600
