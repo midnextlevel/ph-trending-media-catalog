@@ -6,14 +6,14 @@
       "name": "The East Palace"
     },
     {
+      "id": "tmdb:281281",
+      "type": "series",
+      "name": "Elite Force"
+    },
+    {
       "id": "tmdb:296206",
       "type": "series",
       "name": "Agent Kim Reactivated"
-    },
-    {
-      "id": "tmdb:298610",
-      "type": "series",
-      "name": "Spooky in Love"
     },
     {
       "id": "tmdb:319720",
@@ -21,9 +21,9 @@
       "name": "The Loyalty Game"
     },
     {
-      "id": "tmdb:281281",
+      "id": "tmdb:298610",
       "type": "series",
-      "name": "Elite Force"
+      "name": "Spooky in Love"
     },
     {
       "id": "tmdb:94997",
@@ -41,9 +41,9 @@
       "name": "Teach You a Lesson"
     },
     {
-      "id": "tmdb:243875",
+      "id": "tmdb:2637",
       "type": "series",
-      "name": "Georgie & Mandy's First Marriage"
+      "name": "Come Dine with Me"
     },
     {
       "id": "tmdb:241882",
@@ -56,9 +56,9 @@
       "name": "Lucky"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:243875",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "Georgie & Mandy's First Marriage"
     },
     {
       "id": "tmdb:300727",
@@ -76,9 +76,9 @@
       "name": "Silo"
     },
     {
-      "id": "tmdb:283151",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "The Five Star Weekend"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:285404",
@@ -96,9 +96,9 @@
       "name": "Avatar the Last Airbender"
     },
     {
-      "id": "tmdb:322785",
+      "id": "tmdb:283151",
       "type": "series",
-      "name": "100 Cooks"
+      "name": "The Five Star Weekend"
     }
   ],
   "cacheMaxAge": 3600
