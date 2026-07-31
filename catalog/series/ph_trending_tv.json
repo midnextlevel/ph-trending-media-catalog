@@ -11,9 +11,9 @@
       "name": "Agent Kim Reactivated"
     },
     {
-      "id": "tmdb:279323",
+      "id": "tmdb:298610",
       "type": "series",
-      "name": "The East Palace"
+      "name": "Spooky in Love"
     },
     {
       "id": "tmdb:319720",
@@ -21,9 +21,9 @@
       "name": "The Loyalty Game"
     },
     {
-      "id": "tmdb:281281",
+      "id": "tmdb:328735",
       "type": "series",
-      "name": "Elite Force"
+      "name": "The Idaho Murders: College Nightmare"
     },
     {
       "id": "tmdb:94997",
@@ -36,34 +36,14 @@
       "name": "See You at Work Tomorrow!"
     },
     {
-      "id": "tmdb:298610",
+      "id": "tmdb:279323",
       "type": "series",
-      "name": "Spooky in Love"
+      "name": "The East Palace"
     },
     {
-      "id": "tmdb:323204",
+      "id": "tmdb:60625",
       "type": "series",
-      "name": "언더커버 셰프"
-    },
-    {
-      "id": "tmdb:254420",
-      "type": "series",
-      "name": "Elle"
-    },
-    {
-      "id": "tmdb:125988",
-      "type": "series",
-      "name": "Silo"
-    },
-    {
-      "id": "tmdb:287620",
-      "type": "series",
-      "name": "Stuart Fails to Save the Universe"
-    },
-    {
-      "id": "tmdb:276161",
-      "type": "series",
-      "name": "Teach You a Lesson"
+      "name": "Rick and Morty"
     },
     {
       "id": "tmdb:273240",
@@ -76,14 +56,34 @@
       "name": "Lucky"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:296756",
       "type": "series",
-      "name": "Rick and Morty"
+      "name": "President Curtis"
     },
     {
-      "id": "tmdb:277439",
+      "id": "tmdb:276161",
       "type": "series",
-      "name": "Cape Fear"
+      "name": "Teach You a Lesson"
+    },
+    {
+      "id": "tmdb:305613",
+      "type": "series",
+      "name": "Love Is Never Gone"
+    },
+    {
+      "id": "tmdb:125988",
+      "type": "series",
+      "name": "Silo"
+    },
+    {
+      "id": "tmdb:287620",
+      "type": "series",
+      "name": "Stuart Fails to Save the Universe"
+    },
+    {
+      "id": "tmdb:97546",
+      "type": "series",
+      "name": "Ted Lasso"
     },
     {
       "id": "tmdb:241882",
@@ -91,14 +91,14 @@
       "name": "Ride or Die"
     },
     {
-      "id": "tmdb:82452",
+      "id": "tmdb:281281",
       "type": "series",
-      "name": "Avatar the Last Airbender"
+      "name": "Elite Force"
     },
     {
-      "id": "tmdb:243875",
+      "id": "tmdb:323204",
       "type": "series",
-      "name": "Georgie & Mandy's First Marriage"
+      "name": "Undercover Chef - Korea"
     }
   ],
   "cacheMaxAge": 3600
